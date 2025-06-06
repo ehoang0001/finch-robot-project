@@ -32,9 +32,11 @@ We stored dance moves in an array and used a loop to repeat them in sync with li
 ## 🛠️ Challenges & Solutions
 
 **Challenge 1**: Robot drifted when turning or moving fast
+
 **Solution**: We reduced the motor speed slightly to make the movements more stable and consistent. Slowing down the turns helped keep the robot in place during the routine.
 
 **Challenge 2**: Timing the robot's movements to sync with the music
+
 **Solution**: We had to experiment with different durations and adjust motor speeds to match the beat. After some trial and error, we matched the movement rhythm with the tones.
 
 ---
