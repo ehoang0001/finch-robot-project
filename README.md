@@ -52,7 +52,14 @@ We stored dance moves in an array and used a loop to repeat them in sync with li
 
 ## 📷 Media
 
-![Robot in action](link-or-screenshot.png)
+Sure! Here's the fixed and clean version of that section for your README:
 
-📹 [Click here to see video demo]([your-video-link](https://streamable.com/q0lktz))
+---
+
+## 📷 Media
+
+![Robot in action](https://cdn.discordapp.com/attachments/1360147801597546597/1380639531086381138/IMG_6464.jpg?ex=68449c43&is=68434ac3&hm=1ba75f22e3dc6ac2829b76bdd76f32bcd3b81fa3e3006a774e71296452c55203&)
+
+📹 [Click here to see video demo](https://streamable.com/q0lktz)
+
 
