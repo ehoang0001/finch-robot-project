@@ -1,4 +1,4 @@
-# Finch Robot Project – \[Dance Project]
+# Finch Robot Project – Dance Project
 
 ## 📌 Project Description
 
