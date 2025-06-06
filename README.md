@@ -54,5 +54,5 @@ We stored dance moves in an array and used a loop to repeat them in sync with li
 
 ![Robot in action](link-or-screenshot.png)
 
-📹 [Click here to see video demo](your-video-link)
+📹 [Click here to see video demo]([your-video-link](https://streamable.com/q0lktz))
 
